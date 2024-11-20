@@ -21,7 +21,6 @@ CilAperture (1).svg
 CilAperture.svg
 demo.png
 fileManifest.txt
-filename.txt
 FlatColorIconsCamcorderPro.svg
 fog.png
 fullscreen.png
@@ -33,7 +32,6 @@ grid3_bright.png
 HeroiconsOutlineArrowsExpand.svg
 hex_pattern.svg
 hide_sidepanel.png
-LICENSE
 logo6.svg
 mapstar_file.png
 mapstar_materials_file.png
@@ -55,7 +53,6 @@ ResinColor3 copy.PNG
 SeaBed.jpg
 SeaBed2k.png
 SeaFoam.png
-TilingRandomizer.json
 water_norm_1.png
 water_norm_2.png
 yellow_folder.png
