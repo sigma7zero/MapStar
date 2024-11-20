@@ -15,9 +15,7 @@ camera_icon.svg
 camera_transparent.png
 caustic1.bmp
 caustic2.bmp
-CilAirplay (1).svg
 CilAirplay.svg
-CilAperture (1).svg
 CilAperture.svg
 demo.png
 fileManifest.txt
