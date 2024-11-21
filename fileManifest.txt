@@ -55,3 +55,4 @@ water_norm_1.png
 water_norm_2.png
 yellow_folder.png
 mapstar_logo.png
+mapstar_logo2.png
