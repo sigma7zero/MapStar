@@ -1,4 +1,7 @@
 arrow-big-left-line.svg
+arrow-panel-close.svg
+arrow-up-right-transparent.svg
+arrow-up-right.svg
 arrow_white.png
 blue_folder.png
 blue_specular_folder.png
@@ -9,6 +12,7 @@ Button_HL_White.png
 Button_HL_Yellow.png
 camera-pin.png
 camera-pin.svg
+camera.svg
 camera_button.png
 camera_icon.png
 camera_icon.svg
@@ -22,6 +26,7 @@ fileManifest.txt
 FlatColorIconsCamcorderPro.svg
 fog.png
 fullscreen.png
+game-controller.svg
 gamepad_white.png
 green_folder.png
 grid.png
@@ -30,8 +35,15 @@ grid3_bright.png
 HeroiconsOutlineArrowsExpand.svg
 hex_pattern.svg
 hide_sidepanel.png
+LICENSE
 logo6.svg
 mapstar_file.png
+mapstar_file_green.png
+mapstar_file_purple.png
+mapstar_file_red.png
+mapstar_file_yellow.png
+mapstar_logo.png
+mapstar_logo2.png
 mapstar_materials_file.png
 mapstar_scene_file.png
 Metals4 copy.JPG
@@ -45,14 +57,15 @@ pattern_hexagon3.png
 perlin_noise.jpg
 play_button.png
 radial_mask.jpg
+README.md
 red_stripes.png
 refSphere1.png
 ResinColor3 copy.PNG
 SeaBed.jpg
 SeaBed2k.png
 SeaFoam.png
+star.svg
+tv_screen.png
 water_norm_1.png
 water_norm_2.png
 yellow_folder.png
-mapstar_logo.png
-mapstar_logo2.png
