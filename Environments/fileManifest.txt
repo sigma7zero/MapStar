@@ -6,8 +6,8 @@ Azure3.jpg
 Azure3_thumb.jpg
 Azure5.jpg
 Azure5_thumb.jpg
-Cloudy1.jpg
-Cloudy1_thumb.jpg
+fresh1.jpg
+fresh1_thumb.jpg
 Evening1.jpg
 Evening1_thumb.jpg
 Evening2.jpg
