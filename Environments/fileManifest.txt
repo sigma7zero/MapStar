@@ -1,3 +1,5 @@
+fresh1.jpg
+fresh1_thumb.jpg
 Azure1.jpg
 Azure1_thumb.jpg
 Azure2.jpg
@@ -8,8 +10,6 @@ Aurora.jpg
 Aurora_thumb.jpg
 Azure5.jpg
 Azure5_thumb.jpg
-fresh1.jpg
-fresh1_thumb.jpg
 Evening1.jpg
 Evening1_thumb.jpg
 Evening2.jpg
