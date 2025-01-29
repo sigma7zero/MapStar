@@ -14,6 +14,10 @@ Azure3.jpg
 Azure3_thumb.jpg
 Aurora.jpg
 Aurora_thumb.jpg
+Arctic1.jpg
+Arctic1_thumb.jpg
+Arctic2.jpg
+Arctic2_thumb.jpg
 Azure5.jpg
 Azure5_thumb.jpg
 Escarpment.jpg
