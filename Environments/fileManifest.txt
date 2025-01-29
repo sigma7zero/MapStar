@@ -26,13 +26,3 @@ NeoTokyo2.jpg
 NeoTokyo2_thumb.jpg
 NeoTokyo3.jpg
 NeoTokyo3_thumb.jpg
-Sunrise.jpg
-Sunrise_thumb.jpg
-Sunset1.jpg
-Sunset1_thumb.jpg
-Sunset2.jpg
-Sunset2_thumb.jpg
-Sunset3.jpg
-Sunset3_thumb.jpg
-Sunset5.jpg
-Sunset5_thumb.jpg
