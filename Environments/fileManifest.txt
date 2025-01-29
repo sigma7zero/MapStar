@@ -1,5 +1,11 @@
 Columbia.jpg
 Columbia_thumb.jpg
+Cumulus1.jpg
+Cumulus1_thumb.jpg
+Cumulus2.jpg
+Cumulus2_thumb.jpg
+Cumulus3.jpg
+Cumulus3_thumb.jpg
 Azure1.jpg
 Azure1_thumb.jpg
 Azure2.jpg
@@ -18,8 +24,10 @@ Thailand.jpg
 Thailand_thumb.jpg
 WelshValley.jpg
 WelshValley_thumb.jpg
-WelshValley2.jpg
-WelshValley2_thumb.jpg
+Desert1.jpg
+Desert1_thumb.jpg
+Desert2.jpg
+Desert2_thumb.jpg
 NeoTokyo1.jpg
 NeoTokyo1_thumb.jpg
 NeoTokyo2.jpg
