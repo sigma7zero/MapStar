@@ -6,6 +6,8 @@ Cumulus2.jpg
 Cumulus2_thumb.jpg
 Cumulus3.jpg
 Cumulus3_thumb.jpg
+BlurredDay.jpg
+BlurredDay_thumb.jpg
 Azure1.jpg
 Azure1_thumb.jpg
 Azure2.jpg
