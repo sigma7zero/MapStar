@@ -40,3 +40,5 @@ NeoTokyo3.jpg
 NeoTokyo3_thumb.jpg
 BlurredDay.jpg
 BlurredDay_thumb.jpg
+EgyptianTomb.jpg
+EgyptianTomb_thumb.jpg
