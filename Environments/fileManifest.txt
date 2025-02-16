@@ -38,7 +38,7 @@ NeoTokyo2.jpg
 NeoTokyo2_thumb.jpg
 NeoTokyo3.jpg
 NeoTokyo3_thumb.jpg
-BlurredDay.jpg
-BlurredDay_thumb.jpg
+Steampunk.jpg
+Steampunk_thumb.jpg
 EgyptianTomb.jpg
 EgyptianTomb_thumb.jpg
